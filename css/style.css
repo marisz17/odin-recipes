@@ -9,3 +9,15 @@ h1 {
     font-size: 72px;
     text-align: center;
 }
+
+.description {
+    background-color: beige;
+}
+
+.ingredients {
+    color: blue;
+}
+
+.steps {
+    font-weight: 700;
+}
